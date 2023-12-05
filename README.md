@@ -1,6 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi+There+👋;I'm+Mert)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Oswald&size=30&pause=1000&color=EFF7EC&vCenter=true&random=false&height=70&lines=Hi+There+👋;I'm+Mert)](https://git.io/typing-svg)
 #
-
 ### 🧰 Languages and Tools
 
 
