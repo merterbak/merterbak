@@ -16,3 +16,8 @@
 #
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+
+#
+[![LinkedIn Connect](https://img.shields.io/badge/Linkedin-black?&logo=linkedin&style=for-the-badge&logoColor=0b62c3)](https://www.linkedin.com/in/merterbak/)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-black?style=for-the-badge&logo=stack-overflow)](https://stackoverflow.com/users/22425414/mert-erbak)
+[![Kaggle](https://img.shields.io/badge/Kaggle-black?style=for-the-badge&logo=kaggle)](https://www.kaggle.com/merterbak)
