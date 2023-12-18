@@ -15,7 +15,7 @@ I’m Artificial Intelligence Engineering student at Bahcesehir University. Deep
 
 #
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=merterbak&theme=moltack)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=merterbak&theme=dark)](https://git.io/streak-stats)
 #
 
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
