@@ -19,11 +19,6 @@
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 
-<div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{merterbak}/count.svg" /></p> 
-<br></div>
-
 #
 
 [![LinkedIn Connect](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/merterbak/)
