@@ -7,7 +7,7 @@
 </p>
  
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=merterbak&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=merterbak&theme=dark&card_height=100)](https://git.io/streak-stats)
 
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
