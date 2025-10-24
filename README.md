@@ -7,7 +7,7 @@
 </p>
  
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-brown-three.vercel.app?user=merterbak&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nu-two.vercel.app?user=merterbak&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/merterbak/github-stats/master/generated/languages.svg#gh-dark-mode-only)
